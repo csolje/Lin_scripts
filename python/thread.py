@@ -12,6 +12,6 @@ t.daemon = True
 t.start()
 
 while True:
-	print("test fra while")
+	print("test for while")
 	time.sleep(2)
 

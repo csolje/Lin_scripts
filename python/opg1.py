@@ -6,4 +6,3 @@ def tester():
 	print "test 2"
 
 tester()
-tester()
